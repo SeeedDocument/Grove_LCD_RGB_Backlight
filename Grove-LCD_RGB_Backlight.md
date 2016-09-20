@@ -1,7 +1,12 @@
-#Grove - LCD RGB Backlight
-
-##Introduction
-
+---
+title: Grove - LCD RGB Backlight
+category: Display
+bzurl: https://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html
+oldwikiname: Grove_-_LCD_RGB_Backlight
+prodimagename: intro.jpg
+surveyurl: https://www.surveymonkey.com/r/LCD_Backlight
+sku: 104030001
+---
 
 ![enter image description here](https://raw.githubusercontent.com/SeeedDocument/Grove_LCD_RGB_Backlight/master/images/intro.jpg)
 Done with tedious mono color backlight? This Grove enables you to set the color to whatever you like via 
@@ -10,7 +15,7 @@ So number of pins required for data exchange and backlight control shrinks from 
 other challenging tasks. Besides, Grove - LCD RGB Backlight supports user-defined characters. Want to get 
 a love heart or some other foreign characters? Just take advantage of this feature and design it! 
 This product is a replacement of Grove - Serial LCD. If you are looking for primitive 16x2 LCD modules, we 
-have green yellow backlight version and blue backlight version on sale also.  
+have green yellow backlight version and blue backlight version on sale also.
 
 [![](https://raw.githubusercontent.com/SeeedDocument/Seeed-WiKi/master/docs/images/get_one_now.png)](http://www.seeedstudio.com/Grove-LCD-RGB-Backlight-p-1643.html)
 
@@ -105,6 +110,3 @@ Upload the code again, woo, see the backlight turn to Red? Then why not try anot
 * [Github page for the Library](https://github.com/Seeed-Studio/Grove_LCD_RGB_Backlight)
 * [Github page for this document](https://github.com/SeeedDocument/Grove_LCD_RGB_Backlight)
 
-##Help us to make it better
-
-<iframe style="height: 600px; width: 700px; margin: 10px 0 10px;" allowTransparency="true" src="https://www.surveymonkey.com/r/LCD_Backlight" frameborder="0"></iframe>
